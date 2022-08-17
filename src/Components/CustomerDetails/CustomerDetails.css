@@ -1,0 +1,11 @@
+.customer_header{
+    display: flex;
+    flex-direction: row;
+}
+
+.edit{
+    text-align: left;
+}
+.cart{
+    align-self: start;
+}
